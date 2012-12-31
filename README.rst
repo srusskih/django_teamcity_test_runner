@@ -4,8 +4,6 @@ Django TeamCity Test Runner
 
 A simple package that provides test runner class for building your Django projects on TeamCity server
 
-    *Uses teamcity-messages==1.6
-
 Usage:
 _____
 in your settings.py insert:
