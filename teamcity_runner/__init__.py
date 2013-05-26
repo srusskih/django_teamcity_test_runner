@@ -1,5 +1,6 @@
 __author__ = 'stachern'
 
+import unittest
 from teamcity import is_running_under_teamcity
 from teamcity.unittestpy import TeamcityTestRunner
 from django.test.simple import DjangoTestSuiteRunner
