@@ -12,6 +12,6 @@ setup(
     long_description=open('README.rst').read(),
     install_requires=[
         "Django >= 1.4.1",
-        "teamcity-messages == 1.6",
+        "teamcity-messages == 1.7",
         ],
 )
